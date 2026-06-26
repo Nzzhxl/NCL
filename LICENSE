@@ -1,0 +1,17 @@
+Copyright (c) 2026 Nzzhxl
+
+NCL (Nzzhxl Coding Language)
+
+All rights reserved.
+
+Permission is granted to use NCL (the language and its executable runtime)
+for the purpose of writing and executing NCL programs.
+
+You are NOT permitted to:
+- copy, modify, reverse engineer, or decompile the NCL interpreter
+- redistribute the NCL interpreter or executable outside official releases
+- create derivative works based on the NCL interpreter
+- use any part of the NCL implementation in other projects
+
+NCL is distributed as a compiled executable only.
+The source code of the interpreter is not publicly available.
